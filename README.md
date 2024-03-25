@@ -1,3 +1,7 @@
+HarveyNgo: codesandbox: https://codesandbox.io/p/sandbox/react-beautiful-dnd-copy-and-drag-gx06i?file=%2Fsrc%2Findex.js
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
